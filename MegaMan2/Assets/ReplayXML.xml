@@ -1,0 +1,11 @@
+<?xml version ="1.0" encoding="utf-8"?>
+<persons>
+  <person>
+    <name>Jordy</name>
+    <dateOfBirth>15-12-1997</dateOfBirth>
+  </person>
+  <person>
+    <name>Romano</name>
+    <dateOfBirth>05-07-1998</dateOfBirth>
+  </person>
+</persons>

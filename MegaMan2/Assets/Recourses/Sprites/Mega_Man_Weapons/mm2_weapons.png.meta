@@ -1,0 +1,1716 @@
+fileFormatVersion: 2
+guid: 279d43b55568ef14ebbc9a3026d6e847
+timeCreated: 1447971745
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mm2_weapons_0
+    21300002: mm2_weapons_1
+    21300004: mm2_weapons_2
+    21300006: mm2_weapons_3
+    21300008: mm2_weapons_4
+    21300010: mm2_weapons_5
+    21300012: mm2_weapons_6
+    21300014: mm2_weapons_7
+    21300016: mm2_weapons_8
+    21300018: mm2_weapons_9
+    21300020: mm2_weapons_10
+    21300022: mm2_weapons_11
+    21300024: mm2_weapons_12
+    21300026: mm2_weapons_13
+    21300028: mm2_weapons_14
+    21300030: mm2_weapons_15
+    21300032: mm2_weapons_16
+    21300034: mm2_weapons_17
+    21300036: mm2_weapons_18
+    21300038: mm2_weapons_19
+    21300040: mm2_weapons_20
+    21300042: mm2_weapons_21
+    21300044: mm2_weapons_22
+    21300046: mm2_weapons_23
+    21300048: mm2_weapons_24
+    21300050: mm2_weapons_25
+    21300052: mm2_weapons_26
+    21300054: mm2_weapons_27
+    21300056: mm2_weapons_28
+    21300058: mm2_weapons_29
+    21300060: mm2_weapons_30
+    21300062: mm2_weapons_31
+    21300064: mm2_weapons_32
+    21300066: mm2_weapons_33
+    21300068: mm2_weapons_34
+    21300070: mm2_weapons_35
+    21300072: mm2_weapons_36
+    21300074: mm2_weapons_37
+    21300076: mm2_weapons_38
+    21300078: mm2_weapons_39
+    21300080: mm2_weapons_40
+    21300082: mm2_weapons_41
+    21300084: mm2_weapons_42
+    21300086: mm2_weapons_43
+    21300088: mm2_weapons_44
+    21300090: mm2_weapons_45
+    21300092: mm2_weapons_46
+    21300094: mm2_weapons_47
+    21300096: mm2_weapons_48
+    21300098: mm2_weapons_49
+    21300100: mm2_weapons_50
+    21300102: mm2_weapons_51
+    21300104: mm2_weapons_52
+    21300106: mm2_weapons_53
+    21300108: mm2_weapons_54
+    21300110: mm2_weapons_55
+    21300112: mm2_weapons_56
+    21300114: mm2_weapons_57
+    21300116: mm2_weapons_58
+    21300118: mm2_weapons_59
+    21300120: mm2_weapons_60
+    21300122: mm2_weapons_61
+    21300124: mm2_weapons_62
+    21300126: mm2_weapons_63
+    21300128: mm2_weapons_64
+    21300130: mm2_weapons_65
+    21300132: mm2_weapons_66
+    21300134: mm2_weapons_67
+    21300136: mm2_weapons_68
+    21300138: mm2_weapons_69
+    21300140: mm2_weapons_70
+    21300142: mm2_weapons_71
+    21300144: mm2_weapons_72
+    21300146: mm2_weapons_73
+    21300148: mm2_weapons_74
+    21300150: mm2_weapons_75
+    21300152: mm2_weapons_76
+    21300154: mm2_weapons_77
+    21300156: mm2_weapons_78
+    21300158: mm2_weapons_79
+    21300160: mm2_weapons_80
+    21300162: mm2_weapons_81
+    21300164: mm2_weapons_82
+    21300166: mm2_weapons_83
+    21300168: mm2_weapons_84
+    21300170: mm2_weapons_85
+    21300172: mm2_weapons_86
+    21300174: mm2_weapons_87
+    21300176: mm2_weapons_88
+    21300178: mm2_weapons_89
+    21300180: mm2_weapons_90
+    21300182: mm2_weapons_91
+    21300184: mm2_weapons_92
+    21300186: mm2_weapons_93
+    21300188: mm2_weapons_94
+    21300190: mm2_weapons_95
+    21300192: mm2_weapons_96
+    21300194: mm2_weapons_97
+    21300196: mm2_weapons_98
+    21300198: mm2_weapons_99
+    21300200: mm2_weapons_100
+    21300202: mm2_weapons_101
+    21300204: mm2_weapons_102
+    21300206: mm2_weapons_103
+    21300208: mm2_weapons_104
+    21300210: mm2_weapons_105
+    21300212: mm2_weapons_106
+    21300214: mm2_weapons_107
+    21300216: mm2_weapons_108
+    21300218: mm2_weapons_109
+    21300220: mm2_weapons_110
+    21300222: mm2_weapons_111
+    21300224: mm2_weapons_112
+    21300226: mm2_weapons_113
+    21300228: mm2_weapons_114
+    21300230: mm2_weapons_115
+    21300232: mm2_weapons_116
+    21300234: mm2_weapons_117
+    21300236: mm2_weapons_118
+    21300238: mm2_weapons_119
+    21300240: mm2_weapons_120
+    21300242: mm2_weapons_121
+    21300244: mm2_weapons_122
+    21300246: mm2_weapons_123
+    21300248: mm2_weapons_124
+    21300250: mm2_weapons_125
+    21300252: mm2_weapons_126
+    21300254: mm2_weapons_127
+    21300256: mm2_weapons_128
+    21300258: mm2_weapons_129
+    21300260: mm2_weapons_130
+    21300262: mm2_weapons_131
+    21300264: mm2_weapons_132
+    21300266: mm2_weapons_133
+    21300268: mm2_weapons_134
+    21300270: mm2_weapons_135
+    21300272: mm2_weapons_136
+    21300274: mm2_weapons_137
+    21300276: mm2_weapons_138
+    21300278: mm2_weapons_139
+    21300280: mm2_weapons_140
+    21300282: mm2_weapons_141
+    21300284: mm2_weapons_142
+    21300286: mm2_weapons_143
+    21300288: mm2_weapons_144
+    21300290: mm2_weapons_145
+    21300292: mm2_weapons_146
+    21300294: mm2_weapons_147
+    21300296: mm2_weapons_148
+    21300298: mm2_weapons_149
+    21300300: mm2_weapons_150
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mm2_weapons_0
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 411
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_1
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 411
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_2
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 421
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 379
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_4
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 379
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_5
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 382
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_6
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 382
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_7
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 347
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_8
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 347
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_9
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 355
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_10
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 355
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_11
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 355
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_12
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 356
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_13
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 356
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_14
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 355
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_15
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 354
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_16
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 319
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_17
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 319
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_18
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 319
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_19
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 319
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_20
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 319
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_21
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 289
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_22
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 289
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_23
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 298
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_24
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 299
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_25
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 298
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_26
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 299
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_27
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 260
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_28
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 262
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_29
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 263
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_30
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 250
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_31
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 268
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_32
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 269
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_33
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_34
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 254
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_35
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 255
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_36
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 252
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_37
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 253
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_38
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 222
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_39
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 222
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_40
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 230
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_41
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 228
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_42
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 229
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_43
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 229
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_44
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_45
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_46
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 238
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_47
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 238
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_48
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 239
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_49
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 239
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_50
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 234
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_51
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 234
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_52
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 236
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_53
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 236
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_54
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 237
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_55
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 237
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_56
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_57
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 191
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_58
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_59
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_60
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 210
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_61
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 211
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_62
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 214
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_63
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 201
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_64
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 193
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_65
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 202
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_66
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 194
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_67
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_68
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 202
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_69
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 203
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_70
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 206
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_71
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 183
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_72
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_73
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 194
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_74
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 195
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_75
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 198
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_76
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 185
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_77
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 186
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_78
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 186
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_79
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 187
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_80
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 190
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_81
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 153
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_82
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 153
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_83
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 163
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_84
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 120
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_85
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 120
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_86
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 120
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_87
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 120
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_88
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 120
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_89
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 129
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_90
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 130
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_91
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_92
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 127
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_93
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 121
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_94
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 123
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_95
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 91
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_96
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 91
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_97
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 93
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_98
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 95
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_99
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 93
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_100
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 91
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_101
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 91
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_102
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 93
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_103
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 95
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_104
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 93
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_105
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 67
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_106
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 67
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_107
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 67
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_108
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 67
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_109
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 65
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_110
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 67
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_111
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_112
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 67
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_113
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 67
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_114
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 67
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_115
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_116
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_117
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_118
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 75
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_119
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 75
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_120
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 75
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_121
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 75
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_122
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 67
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_123
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 67
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_124
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 67
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_125
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 67
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_126
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 59
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_127
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 59
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_128
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 57
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_129
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 55
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_130
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 57
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_131
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 59
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_132
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 59
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_133
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 57
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_134
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 55
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_135
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 57
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_136
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 34
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_137
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 35
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_138
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 38
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_139
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 4
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_140
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 4
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_141
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 10
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_142
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 10
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_143
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 15
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_144
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 15
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_145
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 11
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_146
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 11
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_147
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 9
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_148
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 11
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_149
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 12
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm2_weapons_150
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 15
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

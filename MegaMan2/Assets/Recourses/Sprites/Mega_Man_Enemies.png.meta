@@ -1,0 +1,1903 @@
+fileFormatVersion: 2
+guid: ff04c78aaac733f4f96ca634ae5e5da0
+timeCreated: 1447675736
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Mega_Man_Enemies_0
+    21300002: Mega_Man_Enemies_1
+    21300004: Mega_Man_Enemies_2
+    21300006: Mega_Man_Enemies_3
+    21300008: Mega_Man_Enemies_4
+    21300010: Mega_Man_Enemies_5
+    21300012: Mega_Man_Enemies_6
+    21300014: Mega_Man_Enemies_7
+    21300016: Mega_Man_Enemies_8
+    21300018: Mega_Man_Enemies_9
+    21300020: Mega_Man_Enemies_10
+    21300022: Mega_Man_Enemies_11
+    21300024: Mega_Man_Enemies_12
+    21300026: Mega_Man_Enemies_13
+    21300028: Mega_Man_Enemies_14
+    21300030: Mega_Man_Enemies_15
+    21300032: Mega_Man_Enemies_16
+    21300034: Mega_Man_Enemies_17
+    21300036: Mega_Man_Enemies_18
+    21300038: Mega_Man_Enemies_19
+    21300040: Mega_Man_Enemies_20
+    21300042: Mega_Man_Enemies_21
+    21300044: Mega_Man_Enemies_22
+    21300046: Mega_Man_Enemies_23
+    21300048: Mega_Man_Enemies_24
+    21300050: Mega_Man_Enemies_25
+    21300052: Mega_Man_Enemies_26
+    21300054: Mega_Man_Enemies_27
+    21300056: Mega_Man_Enemies_28
+    21300058: Mega_Man_Enemies_29
+    21300060: Mega_Man_Enemies_30
+    21300062: Mega_Man_Enemies_31
+    21300064: Mega_Man_Enemies_32
+    21300066: Mega_Man_Enemies_33
+    21300068: Mega_Man_Enemies_34
+    21300070: Mega_Man_Enemies_35
+    21300072: Mega_Man_Enemies_36
+    21300074: Mega_Man_Enemies_37
+    21300076: Mega_Man_Enemies_38
+    21300078: Mega_Man_Enemies_39
+    21300080: Mega_Man_Enemies_40
+    21300082: Mega_Man_Enemies_41
+    21300084: Mega_Man_Enemies_42
+    21300086: Mega_Man_Enemies_43
+    21300088: Mega_Man_Enemies_44
+    21300090: Mega_Man_Enemies_45
+    21300092: Mega_Man_Enemies_46
+    21300094: Mega_Man_Enemies_47
+    21300096: Mega_Man_Enemies_48
+    21300098: Mega_Man_Enemies_49
+    21300100: Mega_Man_Enemies_50
+    21300102: Mega_Man_Enemies_51
+    21300104: Mega_Man_Enemies_52
+    21300106: Mega_Man_Enemies_53
+    21300108: Mega_Man_Enemies_54
+    21300110: Mega_Man_Enemies_55
+    21300112: Mega_Man_Enemies_56
+    21300114: Mega_Man_Enemies_57
+    21300116: Mega_Man_Enemies_58
+    21300118: Mega_Man_Enemies_59
+    21300120: Mega_Man_Enemies_60
+    21300122: Mega_Man_Enemies_61
+    21300124: Mega_Man_Enemies_62
+    21300126: Mega_Man_Enemies_63
+    21300128: Mega_Man_Enemies_64
+    21300130: Mega_Man_Enemies_65
+    21300132: Mega_Man_Enemies_66
+    21300134: Mega_Man_Enemies_67
+    21300136: Mega_Man_Enemies_68
+    21300138: Mega_Man_Enemies_69
+    21300140: Mega_Man_Enemies_70
+    21300142: Mega_Man_Enemies_71
+    21300144: Mega_Man_Enemies_72
+    21300146: Mega_Man_Enemies_73
+    21300148: Mega_Man_Enemies_74
+    21300150: Mega_Man_Enemies_75
+    21300152: Mega_Man_Enemies_76
+    21300154: Mega_Man_Enemies_77
+    21300156: Mega_Man_Enemies_78
+    21300158: Mega_Man_Enemies_79
+    21300160: Mega_Man_Enemies_80
+    21300162: Mega_Man_Enemies_81
+    21300164: Mega_Man_Enemies_82
+    21300166: Mega_Man_Enemies_83
+    21300168: Mega_Man_Enemies_84
+    21300170: Mega_Man_Enemies_85
+    21300172: Mega_Man_Enemies_86
+    21300174: Mega_Man_Enemies_87
+    21300176: Mega_Man_Enemies_88
+    21300178: Mega_Man_Enemies_89
+    21300180: Mega_Man_Enemies_90
+    21300182: Mega_Man_Enemies_91
+    21300184: Mega_Man_Enemies_92
+    21300186: Mega_Man_Enemies_93
+    21300188: Mega_Man_Enemies_94
+    21300190: Mega_Man_Enemies_95
+    21300192: Mega_Man_Enemies_96
+    21300194: Mega_Man_Enemies_97
+    21300196: Mega_Man_Enemies_98
+    21300198: Mega_Man_Enemies_99
+    21300200: Mega_Man_Enemies_100
+    21300202: Mega_Man_Enemies_101
+    21300204: Mega_Man_Enemies_102
+    21300206: Mega_Man_Enemies_103
+    21300208: Mega_Man_Enemies_104
+    21300210: Mega_Man_Enemies_105
+    21300212: Mega_Man_Enemies_106
+    21300214: Mega_Man_Enemies_107
+    21300216: Mega_Man_Enemies_108
+    21300218: Mega_Man_Enemies_109
+    21300220: Mega_Man_Enemies_110
+    21300222: Mega_Man_Enemies_111
+    21300224: Mega_Man_Enemies_112
+    21300226: Mega_Man_Enemies_113
+    21300228: Mega_Man_Enemies_114
+    21300230: Mega_Man_Enemies_115
+    21300232: Mega_Man_Enemies_116
+    21300234: Mega_Man_Enemies_117
+    21300236: Mega_Man_Enemies_118
+    21300238: Mega_Man_Enemies_119
+    21300240: Mega_Man_Enemies_120
+    21300242: Mega_Man_Enemies_121
+    21300244: Mega_Man_Enemies_122
+    21300246: Mega_Man_Enemies_123
+    21300248: Mega_Man_Enemies_124
+    21300250: Mega_Man_Enemies_125
+    21300252: Mega_Man_Enemies_126
+    21300254: Mega_Man_Enemies_127
+    21300256: Mega_Man_Enemies_128
+    21300258: Mega_Man_Enemies_129
+    21300260: Mega_Man_Enemies_130
+    21300262: Mega_Man_Enemies_131
+    21300264: Mega_Man_Enemies_132
+    21300266: Mega_Man_Enemies_133
+    21300268: Mega_Man_Enemies_134
+    21300270: Mega_Man_Enemies_135
+    21300272: Mega_Man_Enemies_136
+    21300274: Mega_Man_Enemies_137
+    21300276: Mega_Man_Enemies_138
+    21300278: Mega_Man_Enemies_139
+    21300280: Mega_Man_Enemies_140
+    21300282: Mega_Man_Enemies_141
+    21300284: Mega_Man_Enemies_142
+    21300286: Mega_Man_Enemies_143
+    21300288: Mega_Man_Enemies_144
+    21300290: Mega_Man_Enemies_145
+    21300292: Mega_Man_Enemies_146
+    21300294: Mega_Man_Enemies_147
+    21300296: Mega_Man_Enemies_148
+    21300298: Mega_Man_Enemies_149
+    21300300: Mega_Man_Enemies_150
+    21300302: Mega_Man_Enemies_151
+    21300304: Mega_Man_Enemies_152
+    21300306: Mega_Man_Enemies_153
+    21300308: Mega_Man_Enemies_154
+    21300310: Mega_Man_Enemies_155
+    21300312: Mega_Man_Enemies_156
+    21300314: Mega_Man_Enemies_157
+    21300316: Mega_Man_Enemies_158
+    21300318: Mega_Man_Enemies_159
+    21300320: Mega_Man_Enemies_160
+    21300322: Mega_Man_Enemies_161
+    21300324: Mega_Man_Enemies_162
+    21300326: Mega_Man_Enemies_163
+    21300328: Mega_Man_Enemies_164
+    21300330: Mega_Man_Enemies_165
+    21300332: Mega_Man_Enemies_166
+    21300334: Mega_Man_Enemies_167
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Mega_Man_Enemies_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 800
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 800
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 802
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 804
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 799
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 800
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 800
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 798
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 798
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 797
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_10
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 798
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 750
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_12
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 750
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_13
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 750
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 750
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_15
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 717
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_16
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 717
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_17
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 717
+        width: 20
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_18
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 717
+        width: 20
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_19
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 761
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_20
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 755
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_21
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 757
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 710
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 710
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 710
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_25
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 710
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 741
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 721
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_28
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 718
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_29
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 721
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 677
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_31
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 677
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 677
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_33
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 677
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_34
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 678
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_35
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 677
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_36
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 678
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_37
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 684
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_38
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 683
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_39
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_40
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 682
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_41
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 635
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_42
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 635
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_43
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 599
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_44
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 598
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_45
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 632
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_46
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 633
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_47
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 633
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_48
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 631
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_49
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 632
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_50
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 631
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_51
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 594
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_52
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 594
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_53
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 594
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_54
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 593
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_55
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 594
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_56
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 594
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_57
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 593
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_58
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 615
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_59
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 603
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_60
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 589
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_61
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 593
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_62
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 558
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_63
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 558
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_64
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 558
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_65
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 558
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_66
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 556
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_67
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 556
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_68
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 565
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_69
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 564
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_70
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 561
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_71
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 561
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_72
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 561
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_73
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 561
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_74
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 518
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_75
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 518
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_76
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 518
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_77
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 518
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_78
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 516
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_79
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 516
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_80
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 525
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_81
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 524
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_82
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 521
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_83
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 521
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_84
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 521
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_85
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 521
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_86
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 476
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_87
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 476
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_88
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 481
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_89
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 484
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_90
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 484
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_91
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 485
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_92
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 485
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_93
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 484
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_94
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 480
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_95
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 473
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_96
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 474
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_97
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 474
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_98
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 473
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_99
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 436
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_100
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 436
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_101
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 441
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_102
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 444
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_103
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 444
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_104
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 445
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_105
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 445
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_106
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 444
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_107
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 440
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_108
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 433
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_109
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 429
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_110
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 431
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_111
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 431
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_112
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 396
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_113
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 396
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_114
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 401
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_115
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 404
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_116
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 404
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_117
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 405
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_118
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 405
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_119
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 401
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_120
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 401
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_121
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 401
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_122
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 401
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_123
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 401
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_124
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 401
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_125
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 358
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_126
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 358
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_127
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 358
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_128
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 358
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_129
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 361
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_130
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 309
+        width: 112
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_131
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 309
+        width: 112
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_132
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 343
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_133
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 314
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_134
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 314
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_135
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 317
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_136
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 282
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_137
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 221
+        width: 112
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_138
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 219
+        width: 112
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_139
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 219
+        width: 112
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_140
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 214
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_141
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 192
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_142
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 152
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_143
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 154
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_144
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 155
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_145
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 155
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_146
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 154
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_147
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_148
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_149
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 54
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_150
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 54
+        width: 80
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_151
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 54
+        width: 80
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_152
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 117
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_153
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 60
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_154
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 58
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_155
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_156
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_157
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_158
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_159
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_160
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_161
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_162
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 15
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_163
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_164
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_165
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_166
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 0
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mega_Man_Enemies_167
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 0
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
